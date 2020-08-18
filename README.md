@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="NextLevelWeek" title="#NextLevelWeek" src=".github/logo.svg" width="250px" />
+    <img alt="NextLevelWeek" title="#NextLevelWeek" src="github/logo.svg" width="250px" />
 </h1>
 
 <h3 align="center">Next Level Week :rocket: </h1>
@@ -15,7 +15,7 @@ O objetivo da NLW é acelerar a evolução do desenvolvedor, nas tecnologias Nod
 <h2 align="center">Proffy 👨‍🎓 </h2>
 
 <h1 align="center">
-    <img alt="background" title="capa" src=".github/background.svg" width="700px" />
+    <img alt="background" title="capa" src="github/background.svg" width="700px" />
 </h1>
 
 ## :computer: Tecnologias
