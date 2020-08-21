@@ -58,7 +58,7 @@ yarn start
 #Se você for rodar em produção
 #Para gerar build da aplicação
 #Vai gerar uma pasta /build
-yarn tsc
+yarn build
 
 #Rode esse comando para começar a rodar o projeto em produção
 yarn start
